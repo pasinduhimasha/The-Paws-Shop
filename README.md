@@ -1,24 +1,24 @@
 ## Features
 
-### User Authentication
+- ##  User Authentication
 - Manager and Cashier login functionality
 - Role-based access to system features
 
-### Pet Supply Management
+- ##  Pet Supply Management
 - Add new pet supply items (insert records)
 - View all available pet supplies
 - Search pet supplies by category
 - Store and retrieve data using text files
 
-### Category Management
+- ##  Category Management
 - Add new pet supply categories
 - View and use existing categories when adding items
 
-### User Management (Manager Only)
+- ##  User Management (Manager Only)
 - Create new cashier accounts
 - Store and manage user credentials securely
 
-### System Design & Implementation
+- ## System Design & Implementation
 - Java Swing–based graphical user interface
 - Object-Oriented design using:
   - Encapsulation
