@@ -1,43 +1,52 @@
+#  Pet Shop Management System
+
+A **Java Swing desktop application** for managing pet supplies in a pet shop.  
+Supports user authentication, pet supply management, category management, and role-based access for managers and cashiers.  
+Data is stored in text files, following **Object-Oriented Programming** principles.
+
+---
+
 ## Features
 
-- ##  User Authentication
-- Manager and Cashier login functionality
-- Role-based access to system features
+### User Authentication
+- Manager and Cashier login
+- Role-based access control
 
-- ##  Pet Supply Management
-- Add new pet supply items (insert records)
-- View all available pet supplies
-- Search pet supplies by category
+### Pet Supply Management
+- Add new pet supply items
+- View all available items
+- Search items by category
 - Store and retrieve data using text files
 
-- ##  Category Management
+### Category Management
 - Add new pet supply categories
-- View and use existing categories when adding items
+- Use existing categories when adding items
 
-- ##  User Management (Manager Only)
+### User Management (Manager Only)
 - Create new cashier accounts
-- Store and manage user credentials securely
+- Manage user credentials securely
 
-- ## System Design & Implementation
-- Java Swing–based graphical user interface
-- Object-Oriented design using:
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
-  - Abstraction
-- UML diagrams (Use Case, Class, Sequence)
+### System Design & Implementation
+- **Java Swing** GUI
+- **OOP Concepts**: Encapsulation, Inheritance, Polymorphism, Abstraction
+- UML diagrams: Use Case, Class, Sequence
 
-- ## Technologies Used
+---
+
+## Technologies Used
 - Java
 - Java Swing
 - NetBeans IDE
 - File Handling (TXT)
 
+---
+
 ## How to Run
-1. Open the project in NetBeans
-2. Clean and Build the project
-3. Run the main JFrame
+1. Open the project in **NetBeans**
+2. **Clean & Build** the project
+3. Run the **main JFrame**
 
-## Author
-Pasindu Tharukarathne
+---
 
+## ✍️ Author
+**Pasindu Tharukarathne**
