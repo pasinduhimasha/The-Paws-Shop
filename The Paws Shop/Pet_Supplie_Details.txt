@@ -1,0 +1,80 @@
+Dog : Pet Toys : Red : 12 : PetSafe : Medium : Rubber : Squeaky ball for active dogs
+Cat : Food : Brown : 8 : Whiskas : Small : Grain-free : Chicken flavor dry food
+Rabbit : Cage : White : 45 : Living World : Large : Metal : Spacious rabbit cage with water bottle
+Guinea Pig : Grooming : Pink : 7 : Kwik Stop : Small : Plastic : Nail trimmer for small pets
+Dog : Collars : Black : 15 : Ruffwear : Large : Leather : Adjustable leather collar
+Cat : Pet Toys : Blue : 9 : SmartyKat : Small : Fabric : Feather wand for interactive play
+Rabbit : Food : Green : 6 : Oxbow : Medium : Hay : Nutrient-rich hay for rabbits
+Guinea Pig : Harnesses : Yellow : 10 : Kaytee : Small : Nylon : Comfortable harness for guinea pigs
+Dog : Grooming : Brown : 18 : FURminator : Large : Plastic : Deshedding tool for short-haired dogs
+Cat : Collars : Grey : 11 : Rogz : Medium : Nylon : Reflective safety collar
+Rabbit : Pet Toys : Orange : 5 : Kaytee : Small : Wood : Chew toy for healthy teeth
+Guinea Pig : Food : White : 4 : Oxbow : Small : Pellets : Vitamin C fortified food
+Dog : Harnesses : Red : 22 : PetSafe : Large : Nylon : No-pull harness for dogs
+Cat : Grooming : Black : 13 : Hertzko : Small : Plastic : Self-cleaning slicker brush
+Rabbit : Cage : Green : 40 : MidWest : Medium : Metal : Indoor rabbit cage with easy access doors
+Guinea Pig : Pet Toys : Blue : 6 : Kaytee : Small : Wood : Chewable wooden block
+Dog : Collars : Yellow : 19 : Ruffwear : Medium : Nylon : Waterproof collar with quick-release
+Cat : Harnesses : Pink : 14 : Rogz : Small : Nylon : Comfort harness for cats
+Rabbit : Food : Grey : 7 : Small Pet Select : Medium : Hay : Organic timothy hay for healthy digestion
+Guinea Pig : Grooming : Brown : 8 : Hartz : Small : Plastic : Fine-toothed grooming brush
+Dog : Food : Blue : 12 : Blue Buffalo : Large : Grain-free : Chicken and rice dry food
+Cat : Cage : White : 55 : Petmate : Medium : Plastic : Portable cat crate for travel
+Rabbit : Collars : Black : 9 : Kaytee : Small : Nylon : Adjustable collar for rabbits
+Guinea Pig : Pet Toys : Red : 5 : Ware : Small : Plastic : Exercise ball for guinea pigs
+Dog : Grooming : Green : 17 : Hertzko : Medium : Plastic : Soft bristle brush for sensitive skin
+Cat : Pet Toys : Yellow : 8 : SmartyKat : Medium : Fabric : Interactive cat tunnel
+Rabbit : Harnesses : Orange : 13 : Kaytee : Small : Nylon : Harness with leash for rabbits
+Guinea Pig : Food : Pink : 3 : Oxbow : Small : Pellets : Essential blend guinea pig food
+Dog : Cage : Grey : 60 : MidWest : Large : Metal : Heavy-duty dog crate with double doors
+Cat : Food : Brown : 9 : Friskies : Small : Grain-free : Seafood medley flavor
+Rabbit : Grooming : White : 11 : Hartz : Small : Plastic : Rabbit grooming kit with brush and comb
+Guinea Pig : Collars : Blue : 7 : Kaytee : Small : Nylon : Adjustable guinea pig collar
+Dog : Pet Toys : Red : 14 : Kong : Large : Rubber : Durable chew toy for aggressive chewers
+Cat : Harnesses : Black : 12 : Rogz : Medium : Nylon : Escape-proof harness for walks
+Rabbit : Food : Green : 8 : Oxbow : Medium : Hay : Timothy hay blend for rabbits
+Guinea Pig : Pet Toys : Yellow : 6 : Ware : Small : Wood : Chew toy for healthy teeth
+Dog : Grooming : Pink : 16 : FURminator : Small : Plastic : De-shedding brush for small dogs
+Cat : Collars : Grey : 10 : Rogz : Small : Nylon : Reflective cat collar with bell
+Rabbit : Cage : Brown : 42 : MidWest : Large : Metal : Outdoor rabbit enclosure
+Guinea Pig : Food : Blue : 5 : Oxbow : Small : Pellets : High-fiber diet for guinea pigs
+Dog : Harnesses : Red : 21 : Ruffwear : Medium : Nylon : Adventure harness for active dogs
+Cat : Pet Toys : Orange : 7 : SmartyKat : Small : Fabric : Stuffed mouse toy with catnip
+Rabbit : Grooming : Black : 12 : Living World : Small : Plastic : Rabbit grooming brush
+Guinea Pig : Collars : White : 6 : Kaytee : Small : Nylon : Comfort-fit collar for guinea pigs
+Dog : Food : Brown : 10 : Blue Buffalo : Medium : Grain-free : Duck and sweet potato dry food
+Cat : Cage : Green : 50 : Petmate : Large : Plastic : Portable travel crate for cats
+Rabbit : Pet Toys : Blue : 6 : Kaytee : Small : Wood : Chew toy for rabbits
+Guinea Pig : Harnesses : Grey : 9 : Kaytee : Small : Nylon : Adjustable harness for guinea pigs
+Dog : Collars : Pink : 20 : Ruffwear : Medium : Nylon : Padded waterproof collar
+Cat : Grooming : Yellow : 13 : FURminator : Small : Plastic : De-shedding tool for cats
+Rabbit : Food : Orange : 8 : Oxbow : Medium : Hay : High-fiber hay for digestive health
+Guinea Pig : Cage : Black : 38 : MidWest : Small : Metal : Spacious indoor cage for guinea pigs
+Dog : Pet Toys : Red : 12 : Kong : Medium : Rubber : Bounce ball for fetch games
+Cat : Collars : Blue : 11 : Rogz : Small : Nylon : Breakaway collar with ID tag ring
+Rabbit : Grooming : Green : 10 : Hartz : Small : Plastic : Soft bristle brush for rabbits
+Guinea Pig : Food : Brown : 4 : Oxbow : Small : Pellets : Essential guinea pig food with nutrients
+Dog : Harnesses : White : 19 : PetSafe : Large : Nylon : Comfort harness for large dogs
+Cat : Pet Toys : Black : 9 : SmartyKat : Small : Fabric : Interactive string toy for cats
+Rabbit : Cage : Yellow : 41 : Living World : Medium : Metal : Indoor rabbit cage with chew-proof wires
+Guinea Pig : Collars : Pink : 7 : Kaytee : Small : Nylon : Soft collar for guinea pigs
+Dog : Grooming : Blue : 18 : Hertzko : Medium : Plastic : Slicker brush for large dogs
+Cat : Harnesses : Orange : 15 : Rogz : Medium : Nylon : Reflective harness for outdoor cats
+Rabbit : Pet Toys : Grey : 6 : Kaytee : Small : Wood : Natural chew toy for rabbits
+Guinea Pig : Food : Green : 5 : Oxbow : Small : Pellets : Timothy hay pellets for guinea pigs
+Dog : Collars : Black : 16 : Ruffwear : Medium : Nylon : Heavy-duty collar with reflective strip
+Cat : Grooming : White : 14 : FURminator : Small : Plastic : De-shedding comb for short-haired cats
+Rabbit : Harnesses : Blue : 13 : Kaytee : Small : Nylon : Harness with leash for rabbits
+Guinea Pig : Cage : Red : 36 : MidWest : Small : Metal : Easy-clean guinea pig cage
+Dog : Pet Toys : Yellow : 13 : Kong : Medium : Rubber : Rope tug toy for dogs
+Cat : Food : Brown : 8 : Whiskas : Small : Grain-free : Salmon flavor dry food
+Rabbit : Grooming : Orange : 12 : Hartz : Small : Plastic : Grooming brush for soft coats
+Guinea Pig : Collars : Grey : 7 : Kaytee : Small : Nylon : Comfort-fit collar with buckle
+Dog : Cage : Black : 58 : MidWest : Large : Metal : Heavy-duty dog crate for large breeds
+Cat : Pet Toys : Red : 8 : SmartyKat : Small : Fabric : Catnip-stuffed toy for playtime
+Rabbit : Food : Green : 7 : Oxbow : Medium : Hay : Nutrient-rich timothy hay for rabbits
+Guinea Pig : Grooming : White : 8 : Hartz : Small : Plastic : Grooming comb for guinea pigs
+Dog : Harnesses : Pink : 22 : Ruffwear : Medium : Nylon : Reflective no-pull harness for dogs
+Cat : Collars : Blue : 12 : Rogz : Small : Nylon : Adjustable collar with breakaway buckle
+Rabbit : Cage : Grey : 46 : Living World : Medium : Metal : Spacious rabbit cage with feeding tray
+Guinea Pig : Pet Toys : Yellow : 6 : Ware : Small : Wood : Chewable play block
